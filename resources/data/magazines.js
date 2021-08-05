@@ -10,9 +10,8 @@ magazines = [
  * For Local testing, uncomment the below lines and you can test your code on local using test_main.py.
  */
 
-// magazines = [
-//   "https://assessment-rss.s3.ap-south-1.amazonaws.com/coronavirus.rss",
-//   "https://assessment-rss.s3.ap-south-1.amazonaws.com/india-tech.rss",
-//   "https://assessment-rss.s3.ap-south-1.amazonaws.com/sports-star.rss",
-// ];
+ magazines = [
+  "https://assessment-rss.s3.ap-south-1.amazonaws.com/coronavirus.rss",
+  "https://assessment-rss.s3.ap-south-1.amazonaws.com/india-tech.rss",
+  "https://assessment-rss.s3.ap-south-1.amazonaws.com/sports-star.rss", ];
 
